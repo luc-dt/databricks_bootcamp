@@ -121,5 +121,3 @@ This project demonstrates a practical Databricks Lakehouse implementation using:
 
 
 ```
-
-With the documentation looking sharp, what is the next technical step you plan to tackle in the actual Databricks workspace?
